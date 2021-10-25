@@ -1,0 +1,14 @@
+C:\Curso\Testes\CSharpIntermediarioExercicios\Aula12_SegundoExercicio\bin\Debug\Aula12_SegundoExercicio.exe.config
+C:\Curso\Testes\CSharpIntermediarioExercicios\Aula12_SegundoExercicio\bin\Debug\Aula12_SegundoExercicio.exe
+C:\Curso\Testes\CSharpIntermediarioExercicios\Aula12_SegundoExercicio\bin\Debug\Aula12_SegundoExercicio.pdb
+C:\Curso\Testes\CSharpIntermediarioExercicios\Aula12_SegundoExercicio\obj\Debug\Aula12_SegundoExercicio.Properties.Resources.resources
+C:\Curso\Testes\CSharpIntermediarioExercicios\Aula12_SegundoExercicio\obj\Debug\Aula12_SegundoExercicio.csproj.GenerateResource.Cache
+C:\Curso\Testes\CSharpIntermediarioExercicios\Aula12_SegundoExercicio\obj\Debug\Aula12_SegundoExercicio.exe
+C:\Curso\Testes\CSharpIntermediarioExercicios\Aula12_SegundoExercicio\obj\Debug\Aula12_SegundoExercicio.pdb
+C:\Curso\Testes\CSharpIntermediarioExercicios\Aula12_SegundoExercicio\obj\Debug\Aula12_SegundoExercicio.csprojResolveAssemblyReference.cache
+C:\Curso\Testes\CSharpIntermediarioExercicios\Aula12_SegundoExercicio\bin\Debug\MySql.Data.dll
+C:\Curso\Testes\CSharpIntermediarioExercicios\Aula12_SegundoExercicio\obj\Debug\Aula12_SegundoExercicio.Principal.resources
+C:\Curso\Testes\CSharpIntermediarioExercicios\Aula12_SegundoExercicio\obj\Debug\Aula12_SegundoExercicio.frmProgressBar.resources
+C:\Users\DINTER-PPGEFHC-IFBA\Desktop\TreinaWeb Exercicios\Respostas\Aula12_SegundoExercicio\obj\Debug\Aula12_SegundoExercicio.csproj.AssemblyReference.cache
+C:\Users\DINTER-PPGEFHC-IFBA\Desktop\TreinaWeb Exercicios\Respostas\Aula12_SegundoExercicio\obj\Debug\Aula12_SegundoExercicio.exe
+C:\Users\DINTER-PPGEFHC-IFBA\Desktop\TreinaWeb Exercicios\Respostas\Aula12_SegundoExercicio\obj\Debug\Aula12_SegundoExercicio.pdb
