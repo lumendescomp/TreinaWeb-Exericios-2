@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<produtos>
+  <produto>
+    <Nome>Mouse</Nome>
+    <Preco>10</Preco>
+    <Quantidade>10</Quantidade>
+  </produto>
+  <produto>
+    <Nome>Tela</Nome>
+    <Preco>134000</Preco>
+    <Quantidade>10</Quantidade>
+  </produto>
+  <produto>
+    <Nome>Tela</Nome>
+    <Preco>1340</Preco>
+    <Quantidade>10</Quantidade>
+  </produto>
+  <produto>
+    <Nome>Notebook</Nome>
+    <Preco>2039,1</Preco>
+    <Quantidade>10</Quantidade>
+  </produto>
+</produtos>
